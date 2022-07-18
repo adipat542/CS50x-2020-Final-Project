@@ -1,0 +1,1 @@
+You put your name in the box given and it gives you a fortune from its database.
